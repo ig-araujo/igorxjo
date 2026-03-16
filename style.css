@@ -290,7 +290,10 @@ nav a:hover {
 
 
 /* FOOTER */
-
+.logoo{
+    width: 15%;
+    align-items: center;
+}
 footer {
     background: #111;
     padding: 20px;
